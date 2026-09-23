@@ -10,7 +10,7 @@ from .tools import send_contact, store_out_of_context_ques, tools
 load_dotenv()
 
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
-OPENROUTER_MODEL = "laguna-s-2.1"
+OPENROUTER_MODEL = "poolside/laguna-s-2.1"
 PLACEHOLDER_API_KEY = "sk-or-placeholder"
 
 

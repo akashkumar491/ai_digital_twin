@@ -8,9 +8,6 @@ authors = [
 ]
 requires-python = ">=3.12"
 dependencies = [
-    "jupyter>=1.1.1",
-    "langchain>=1.4.2",
-    "langchain-google-genai>=4.4.0",
     "openai>=3.16.2",
     "pypdf>=6.19.0",
     "python-dotenv>=1.2.3",
